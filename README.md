@@ -16,6 +16,6 @@ DM Linux is a lightweight, fast, and powerful text-based operating system design
   Just one script powers the entire operating system! No installation hassle or unnecessary complexity.
 
 ---
-##Requirements
+## Requirements
 - Python 3.7 or later
 - Any computer capable of running Python (even older systems with Linux or Windows (Mac is not tested.))
